@@ -1,0 +1,8 @@
+
+/src/main/resources/config.properties
+*.properties
+target/
+.idea/
+
+
+.DS_Store

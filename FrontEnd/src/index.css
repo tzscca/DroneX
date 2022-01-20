@@ -1,0 +1,13 @@
+@import "~antd/dist/antd.css";
+
+.content-background {
+  background-image: url("./backgrounds/Drone.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.business-button {
+  font-size: 15px;
+  font-family: Arial, Sans-serif;
+  font-weight: 500;
+}
